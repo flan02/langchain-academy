@@ -6,6 +6,10 @@
 
 [LangSmith documentation](https://docs.smith.langchain.com/)
 
+## LangChain projects
+
+[here](https://smith.langchain.com)
+
 ## Introduction
 
 Welcome to LangChain Academy!
@@ -150,3 +154,7 @@ from langchain.llms import OpenAI
 llm = OpenAI(api_key=openai_api_key)
 
 ```
+
+## How to disable a parallel tool calling
+
+[here docs](https://python.langchain.com/docs/how_to/tool_calling_parallel/)
