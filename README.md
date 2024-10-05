@@ -158,3 +158,7 @@ llm = OpenAI(api_key=openai_api_key)
 ## How to disable a parallel tool calling
 
 [here docs](https://python.langchain.com/docs/how_to/tool_calling_parallel/)
+
+## Comments from Giscus
+
+[here](https://giscus.app/)
