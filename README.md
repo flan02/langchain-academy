@@ -162,3 +162,7 @@ llm = OpenAI(api_key=openai_api_key)
 ## Comments from Giscus
 
 [here](https://giscus.app/)
+
+## Agents architecture
+
+[LangGraph docs](https://langchain-ai.github.io/langgraph/concepts/agentic_concepts/)
